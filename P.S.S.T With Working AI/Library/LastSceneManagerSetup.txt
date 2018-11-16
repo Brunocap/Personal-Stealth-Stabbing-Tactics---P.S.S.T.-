@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/Working Robot.unity
+  isLoaded: 1
+  isActive: 1
