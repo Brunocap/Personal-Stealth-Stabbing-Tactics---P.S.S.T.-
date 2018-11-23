@@ -7,6 +7,8 @@ TagManager:
   - Point1
   - Point2
   - Point
+  - CivNPC
+  - GuardNPC
   layers:
   - Default
   - TransparentFX
