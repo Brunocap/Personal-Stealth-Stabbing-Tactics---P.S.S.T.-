@@ -95,7 +95,7 @@ public class CivilianMovement : MonoBehaviour
             int rnd = RandomLocation();
 
             //when you've got a new location, you'll then start a timer (see line 114)
-            StartCoroutine(canGenerateDelay(0.5f));
+            StartCoroutine(canGenerateDelay(1.0f));
 
             Debug.Log(gameObject.name + " - new local = " + rnd + "current local is = " + currentLocation);
 
